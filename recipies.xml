@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="recipes.xslt"?>
+<recipes>
+    <recipe>
+        <name>Spaghetti Carbonara</name>
+        <cost>$10</cost>
+        <ingredients>
+            <ingredient>Spaghetti</ingredient>
+            <ingredient>Pancetta</ingredient>
+            <ingredient>Eggs</ingredient>
+            <ingredient>Parmesan cheese</ingredient>
+            <ingredient>Black pepper</ingredient>
+        </ingredients>
+        <time_taken>30 minutes</time_taken>
+        <difficulty>Medium</difficulty>
+        <cuisine>Italian</cuisine>
+    </recipe>
+    <recipe>
+        <name>Chicken Tikka Masala</name>
+        <cost>$15</cost>
+        <ingredients>
+            <ingredient>Chicken</ingredient>
+            <ingredient>Yogurt</ingredient>
+            <ingredient>Tomato sauce</ingredient>
+            <ingredient>Onion</ingredient>
+            <ingredient>Garlic</ingredient>
+            <ingredient>Ginger</ingredient>
+            <ingredient>Spices (such as cumin, coriander, paprika)</ingredient>
+        </ingredients>
+        <time_taken>45 minutes</time_taken>
+        <difficulty>Medium</difficulty>
+        <cuisine>Indian</cuisine>
+    </recipe>
+    <recipe>
+        <name>Classic Cheeseburger</name>
+        <cost>$12</cost>
+        <ingredients>
+            <ingredient>Ground beef</ingredient>
+            <ingredient>Burger buns</ingredient>
+            <ingredient>Cheese slices</ingredient>
+            <ingredient>Lettuce</ingredient>
+            <ingredient>Tomato</ingredient>
+            <ingredient>Onion</ingredient>
+            <ingredient>Ketchup</ingredient>
+            <ingredient>Mustard</ingredient>
+        </ingredients>
+        <time_taken>20 minutes</time_taken>
+        <difficulty>Easy</difficulty>
+        <cuisine>American</cuisine>
+    </recipe>
+    <recipe>
+        <name>Vegetable Stir-Fry</name>
+        <cost>$8</cost>
+        <ingredients>
+            <ingredient>Mixed vegetables (e.g., bell peppers, broccoli, carrots)</ingredient>
+            <ingredient>Tofu or chicken (optional)</ingredient>
+            <ingredient>Soy sauce</ingredient>
+            <ingredient>Garlic</ingredient>
+            <ingredient>Ginger</ingredient>
+            <ingredient>Vegetable oil</ingredient>
+            <ingredient>Rice or noodles</ingredient>
+        </ingredients>
+        <time_taken>25 minutes</time_taken>
+        <difficulty>Easy</difficulty>
+        <cuisine>Asian</cuisine>
+    </recipe>
+</recipes>
